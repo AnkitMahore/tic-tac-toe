@@ -16,3 +16,7 @@ and code section in
 proj_01.html
 proj_01.css
 proj_01.js files.
+
+
+link to run th code
+"http://127.0.0.1:5500/H/index.html"
